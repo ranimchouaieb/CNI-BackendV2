@@ -1,0 +1,18 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+pydantic==2.10.3
+pydantic-settings==2.6.1
+python-jose[cryptography]==3.3.0
+python-multipart==0.0.20
+python-dotenv==1.0.1
+alembic==1.14.0
+email-validator==2.1.0
+reportlab==4.0.9
+python-docx==1.1.0
+Pillow==10.2.0
+
+# Sécurité — 2FA
+pyotp==2.9.0
+qrcode[pil]==7.4.2

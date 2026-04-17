@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Uploads utilisateurs
+uploads/
+
+# Migrations générées automatiquement
+migrations/__pycache__/
+
+# Fichiers perso/notes
+coursIndiv.txt
+explainv2.md
+
+# OS
+.DS_Store
+Thumbs.db
