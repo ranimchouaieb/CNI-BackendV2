@@ -3,7 +3,7 @@
 API REST pour la **Plateforme Intelligente de Gestion des Formations** du Centre National de l'Informatique (CNI).
 
 Développée avec **FastAPI** + **PostgreSQL** + **SQLAlchemy**.
-
+rq: les modules ia vont changer , priere de ne pas prendre la logique en compte 
 ---
 
 ## Fonctionnalités
